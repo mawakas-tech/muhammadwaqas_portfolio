@@ -42,26 +42,4 @@ A high-craft, versatile **Behance-style digital product & asset portfolio** read
   6. **Framer Templates**:
      - *Lumina* — Luxury Editorial Framer & Web Template (14 Responsive Pages, CMS)
 
----
 
-## 🚀 How to Host for FREE on GitHub Pages (2 Minutes)
-
-1. Go to [GitHub.com](https://github.com/) and create a new public repository (e.g., `portfolio` or `waqas-portfolio`).
-2. Upload all files from `ui8_author_portfolio/`:
-   - `index.html`
-   - `css/` folder (with `style.css`)
-   - `js/` folder (with `app.js`)
-   - `assets/` folder (all `.jpg` and `.png` image files)
-3. In your repo, click **Settings** > **Pages** (in the left sidebar).
-4. Under **Branch**, select **`main`**, keep folder as **`/(root)`**, and click **Save**.
-5. Your live site will be ready at:  
-   👉 `https://<your-username>.github.io/<repo-name>/`
-
----
-
-## 💻 Local Preview
-Double click `run_preview.bat` or run:
-```bash
-python -m http.server 8080
-```
-Then visit `http://localhost:8080` in your web browser.
